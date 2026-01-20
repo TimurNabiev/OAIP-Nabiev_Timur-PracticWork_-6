@@ -1,0 +1,14 @@
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\bin\Debug\net10.0\Practic_Work6.exe
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\bin\Debug\net10.0\Practic_Work6.deps.json
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\bin\Debug\net10.0\Practic_Work6.runtimeconfig.json
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\bin\Debug\net10.0\Practic_Work6.dll
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\bin\Debug\net10.0\Practic_Work6.pdb
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.AssemblyInfoInputs.cache
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.AssemblyInfo.cs
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.dll
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\refint\Practic_Work6.dll
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.pdb
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\Practic_Work6.genruntimeconfig.cache
+C:\Users\Тимур\source\repos\Practic_Work6\Practic_Work6\obj\Debug\net10.0\ref\Practic_Work6.dll
